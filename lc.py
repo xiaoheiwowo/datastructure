@@ -1,5 +1,5 @@
 t = ["flower","flow","floght"]
-
+# hhhhh
 class Solution:
     def longestCommonPrefix(self, strs) -> str:
         length = len(strs)
